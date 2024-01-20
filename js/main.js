@@ -3,7 +3,7 @@ var b = 18
 if(age ==  b){ 
     console.log('qoldiq yoq'); 
 }else if(age < b){ 
-    console.log('qoldiq yoq'); 
+    console.log('qoldiq bor'); 
 }else if(age > b){ 
     console.log('qoldiq yoq'); 
 }
